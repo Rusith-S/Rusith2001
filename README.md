@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rusith Sashika</h1>
-<h3 align="center">A passionate full stack developer from Srilanka</h3>
+<h3 align="center">A passionate full stack developer from SriLanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rusith2001&label=Profile%20views&color=0e75b6&style=flat" alt="rusith2001" /> </p>
 
