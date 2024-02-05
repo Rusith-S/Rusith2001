@@ -11,7 +11,7 @@
 
 - 📫 Feel free to reach me out **rusithsashika@gmail.com**
 
-- 📄 Know about my experiences [https://rusith2001.github.io/Rusith-Portfolio/#contact](https://rusith2001.github.io/Rusith-Portfolio/#contact)
+- 📄 Download my resume [https://rusith2001.github.io/Rusith-Portfolio/#contact](https://rusith2001.github.io/Rusith-Portfolio/#contact)
 
 - ⚡ Fun fact **call me as Russa**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
