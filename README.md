@@ -1,4 +1,4 @@
-<p align="center" ><img  src = "OSFi.gif" width = 100% height= 100%></p>
+<p align="center" ><img  src = "OSFi.gif" width = 1000px height= 300px></p>
 <h1 align="center">Hi 👋, I'm Rusith Sashika</h1>
 <h3 align="center">A passionate full stack developer from SriLanka</h3>
 
