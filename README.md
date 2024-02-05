@@ -4,6 +4,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rusith2001&label=Profile%20views&color=0e75b6&style=flat" alt="rusith2001" /> </p>
 
+-  🧑‍🎓 I’m an Undergraduate at SLIIT
+  
 - 🌱 I’m currently learning **Angular, Full stack Development, Machine Learning**
 
 - 👨‍💻 Visit my Portfolio [https://bit.ly/4bsnmHp](https://bit.ly/4bsnmHp)
