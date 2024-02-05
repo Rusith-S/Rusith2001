@@ -1,3 +1,4 @@
+<p align="center" ><img  src = "https://i.gifer.com/OSFi.gif" width = 700px height= 300px></p>
 <h1 align="center">Hi 👋, I'm Rusith Sashika</h1>
 <h3 align="center">A passionate full stack developer from SriLanka</h3>
 
