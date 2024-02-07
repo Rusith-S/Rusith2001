@@ -31,10 +31,10 @@
   
 </td>
 
-<td width="50%" align="center">
+  <td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Rusith2001&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
+    
   </td>
 </tr>
 </table>
