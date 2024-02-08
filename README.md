@@ -21,22 +21,21 @@
 - ⚡ Fun fact **call me as Russa**
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<!--- stats & Trophy (start) -->
+
 <p align="center">
-  <!--- stats (start) -->
+<!--- stats (start) -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align ="center"><b>My Github Stats</b>
-
 <table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-
-  
+  <tr border="none">
+    <td width="50%" align="center">
+      
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Rusith2001&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rusith2001&theme=outrun&hide_border=false" /> 
   
-</td>
+  <br></br>
+  
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rusith2001&theme=outrun&hide_border=false" />   
+  
+  </td>
 
   <td width="50%" align="center">
 
@@ -45,13 +44,6 @@
   </td>
 </tr>
 </table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-
-<!--- trophy (start) -->
-
-
 </p>        
 <!--- stats (end) -->
 
