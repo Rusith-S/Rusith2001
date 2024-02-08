@@ -16,7 +16,7 @@
 
 - ⚡ Now I'm looking for an internship
   
-- ⬇ Download my resume <a href="Rusith Sashika Resume.pdf" download>Rusith Sashika Resume.pdf </a>
+- ⬇ Download my resume <a href="Rusith Sashika Resume.pdf" download target="_blank">Rusith Sashika Resume.pdf </a>
  
 - ⚡ Fun fact **call me as Russa**
   
