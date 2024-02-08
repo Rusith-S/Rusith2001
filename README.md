@@ -4,18 +4,20 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rusith2001&label=Profile%20views&color=0e75b6&style=flat" alt="rusith2001" /> </p>
 
--  🧑‍🎓 I’m an Undergraduate at SLIIT
+- 🎓 I’m an Undergraduate at SLIIT
   
 - 🌱 I’m currently learning **Angular, Full stack Development, Machine Learning**
-
-- 👨‍💻 Visit my Portfolio [https://bit.ly/4bsnmHp](https://bit.ly/4bsnmHp)
-
+  
+- 🔗 Visit my Portfolio [https://bit.ly/4bsnmHp](https://bit.ly/4bsnmHp)
+  
 - 💬 Ask me about **HTML, CSS, SQL, JavaScript**
+  
+- 📩 Feel free to reach me out **rusithsashika@gmail.com**
 
-- 📫 Feel free to reach me out **rusithsashika@gmail.com**
-
-- 📄 Download my resume [https://rusith2001.github.io/Rusith-Portfolio/#contact](https://rusith2001.github.io/Rusith-Portfolio/#contact)
-
+- ⚡ Now I'm looking for an internship
+  
+- ⬇ Download my resume <a href="Rusith Sashika Resume.pdf" download>Rusith Sashika Resume.pdf </a>
+ 
 - ⚡ Fun fact **call me as Russa**
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
